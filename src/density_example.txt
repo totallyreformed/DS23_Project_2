@@ -1,0 +1,9 @@
+(influenzacases / population) * 50000
+
+Vienna: 55.69
+Amsterdam: 56.97
+Paris: 83.32
+Athens: 59.40
+Thessaloniki: 64.72
+
+Lo -> Hi (For k = 3): Vienna -> Amsterdam -> Athens
